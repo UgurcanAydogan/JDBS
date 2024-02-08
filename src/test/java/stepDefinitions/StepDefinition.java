@@ -314,12 +314,7 @@ public class StepDefinition {
 
 
 
-    git init
-    git add .
-    git commit -m "JDBS"
-    git branch -M main
-    git remote add origin https://github.com/UgurcanAydogan/JDBS.git
-    git push -u origin main
+
 
 
 
